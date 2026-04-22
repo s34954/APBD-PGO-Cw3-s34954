@@ -29,4 +29,28 @@ bin/
 ### Mac OS ###
 .DS_Store
 .iml
-c:\Users\Plana\Desktop\APBD-PGO-Cw3-s34954\APBD-PGO-Cw3-s34954\APBD-PGO-Cw3-s34954.iml
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build folders
+out/
+target/
+build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+
+# Maven / Gradle 
+.gradle/
